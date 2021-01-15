@@ -21,5 +21,5 @@ Also, you may have to set:
    1. Root directory of your code
 6. OBJDIR=obj
    1. Directory to drop the object files
-10. EXECUTABLE = program
+7. EXECUTABLE = program
    1. Name of the executable output
