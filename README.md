@@ -1,9 +1,10 @@
 # Violent-Makefile
-This Makefile will compile everything inside a directory recursively (!) and generate the object files in a separated directory.
+This Makefile will compile everything inside a directory recursively (!) while generating object files in a separated directory.
 
 * No need to list all your code files
+* No need to list all your subdirectories
 * No mess with object and code files together
-* No slow compilation, since the object files will not be deleted
+* No slow recompilation, since object files will not be deleted
 
 All you need to do is set the *SRCDIR* variable to the root directory of your source files
 
